@@ -1,0 +1,20 @@
+{
+    "name": "WataOfuton.Tool.WNDP.Samples.Editor",
+    "rootNamespace": "WataOfuton.Tool.WNDP.Samples.Editor",
+    "references": [
+        "WataOfuton.Tool.WNDP",
+        "WataOfuton.Tool.WNDP.Editor",
+        "WataOfuton.Tool.WNDP.Samples"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

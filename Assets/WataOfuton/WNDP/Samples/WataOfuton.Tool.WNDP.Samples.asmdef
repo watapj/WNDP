@@ -1,0 +1,16 @@
+{
+    "name": "WataOfuton.Tool.WNDP.Samples",
+    "rootNamespace": "WataOfuton.Tool.WNDP.Samples",
+    "references": [
+        "WataOfuton.Tool.WNDP"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

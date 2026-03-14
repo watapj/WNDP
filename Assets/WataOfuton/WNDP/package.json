@@ -1,0 +1,14 @@
+{
+    "name": "com.wataofuton.wndp",
+    "displayName": "VRCW Non-Destructive Pipeline",
+    "version": "0.4.0",
+    "description": "VRChat World Non-Destructive Pipeline.",
+    "unity": "2022.3",
+    "author": {
+        "name": "wata_pj",
+        "url": "https://github.com/watapj"
+    },
+    "dependencies": {
+        "com.vrchat.worlds": "3.10.2"
+    }
+}

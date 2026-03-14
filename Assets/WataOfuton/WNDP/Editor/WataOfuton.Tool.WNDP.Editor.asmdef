@@ -1,0 +1,19 @@
+{
+    "name": "WataOfuton.Tool.WNDP.Editor",
+    "rootNamespace": "WataOfuton.Tool.WNDP.Editor",
+    "references": [
+        "WataOfuton.Tool.WNDP",
+        "VRC.SDKBase.Editor.BuildPipeline"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
