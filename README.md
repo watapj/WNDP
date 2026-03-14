@@ -18,7 +18,7 @@ Build 前や Play 開始前に Editor C# の処理を差し込みつつ、元の
 - Unity 2022.3
 - VRChat Worlds SDK が導入済みであること
 
-WNDP は普通の Unity Package Manager から Git URL で導入できます。  
+WNDP は Unity Package Manager から Git URL で導入できます。  
 
 ### Unity Package Manager から追加する
 
@@ -49,9 +49,8 @@ https://github.com/watapj/WNDP.git?path=Assets/WataOfuton/WNDP#main
 ## 補足
 
 - このプロジェクトは、[NDMF](https://github.com/bdunderscore/ndmf) の Non-Destructive Framework 的な考え方に着想を得ています。  
-- ただし対象はアバターではなく VRChat World であり、独立した実装です。  
+- ただし対象はアバターではなく VRChat World です。  
 - 現状は experimental 段階です。  
-- コアの Build / Play session、pass 基盤、samples、report export は揃っていますが、公開用 package としては今後も整理を続ける前提です。
 
 ## ライセンス
 

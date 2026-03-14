@@ -4,8 +4,8 @@
 
 関連ドキュメント:
 
-- 入口: [../README.md](../README.md)
-- サンプル一覧: [../Samples/README.md](../Samples/README.md)
+- 入口: [README.md](../../../../README.md)
+- サンプル一覧: [Samples/README.md](../Samples/README.md)
 
 ## 基本方針
 
